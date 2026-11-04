@@ -54,6 +54,7 @@ How they were made, how they were checked and their known flaws: [examples/READM
 - Codex (CLI or app) with its built-in image generation. The skill relies on it for scenes and for icons with transparent backgrounds.
 - Python 3 with `python-pptx` and `Pillow`, for building decks and running the checks: `pip install python-pptx pillow`.
 - Microsoft PowerPoint is recommended for rendering previews. The examples were made on Windows 11 with PowerPoint 16, driven through COM (`pip install pywin32`).
+
 **As a Codex plugin**
 
 ```bash
@@ -77,6 +78,35 @@ cp -r scenic-slides-skill/skills/scenic-slides ~/.agents/skills/
 ```
 
 To use it in one project only, copy the folder into that project's `.agents/skills/` instead.
+
+## Uninstall
+
+Use the method that matches how you installed it.
+
+**Codex plugin**
+
+```bash
+codex plugin remove scenic-slides@scenic-slides
+codex plugin marketplace remove scenic-slides
+```
+
+**`skills` CLI**
+
+```bash
+npx skills remove scenic-slides -g -y
+```
+
+Leave out `--agent codex` here. With it, the CLI reports success but leaves the skill folder in place.
+
+**Manual install**
+
+```bash
+rm -rf ~/.agents/skills/scenic-slides
+```
+
+On Windows PowerShell, use `Remove-Item -Recurse -Force ~/.agents/skills/scenic-slides` instead.
+
+Start a new Codex session afterwards.
 
 ## Usage
 
