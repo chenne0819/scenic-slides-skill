@@ -11,3 +11,6 @@ desktop.ini
 _work_*/
 *.pptx
 *.zip
+
+# Local test runs, demo decks and release zips (kept out of the repo)
+testing/
