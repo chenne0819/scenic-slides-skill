@@ -1,0 +1,538 @@
+{
+  "date": "2026-11-04",
+  "run": "run-4",
+  "deck": "Harbourline_Phishing_Basics.pptx",
+  "input": "brief.md",
+  "asset_generation": "Built-in image_gen only; no paid external API calls",
+  "authoring": "python-pptx; native text, panels, rules, arrow and phone UI; generated raster artwork only for scenes and standalone icons",
+  "rendering": "PowerPoint 16 COM, all exports 1920x1080; Local\\SkillDemoDecksPowerPoint mutex held for each COM operation; only presentations opened by this run were closed; Application.Quit was never called",
+  "fixed_character_descriptions": {
+    "Maya": "Maya, a woman about 30 with medium-brown skin, a short dark curly bob, a muted teal overshirt over an ivory top, navy trousers",
+    "IT colleague": "A man about 40 with light brown skin, close-cropped black hair, clean-shaven face and ochre sweater"
+  },
+  "assets": [
+    {
+      "kind": "background",
+      "file": "assets/backgrounds/01-pause-at-desk.png",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-717b88e1-20ac-49eb-8ddc-ffdf66db2c40.png",
+      "generation_prompt": "Use case: illustration-story. Create a full-bleed 16:9 landscape background, 1536x864 or 1920x1080. Style reference: attached image only for refined flat 2D editorial illustration, clean contours and softly layered environmental depth. Do NOT copy people, layout, blue palette or foreground content. NEW art direction: warm ivory plaster, dark maritime navy, muted teal, restrained coral and ochre. One continuous coastal logistics dispatch office extending to every canvas edge. Window overlooking a working harbour and stacked cargo containers on far right. Main subject: Maya, a woman about 30 with medium-brown skin, a short dark curly bob, a muted teal overshirt over an ivory top, navy trousers, seated at a laptop, pausing thoughtfully before clicking. Subject and laptop occupy RIGHTMOST 40%, below 28% of canvas. Left 56% is naturally quiet warm ivory wall with soft daylight, suitable for native title and short text, no foreground objects. Desk runs along bottom edge; unobtrusive closed parcel in lower right. Friendly, observant, not fearful. Broad flat color shapes, elegant limited shading, no texture noise. No text, letters, numbers, charts, arrows, icons, logos, interfaces, floating symbols, text panels or watermarks anywhere. Laptop screen blank. This is environmental artwork only, not a complete slide.",
+      "reference_images_used": [
+        "<author-workspace>/Final_Project_Archives/project-only-20261026-154536/files/docs/presentation/previews/03.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": false,
+      "sha256": "7c94a1cb3d2d9b691189a2a0bb75d58684ddefe4199242a9961fa33fc24feb44",
+      "dimensions_px": [
+        1672,
+        941
+      ],
+      "alpha_check": {
+        "status": "NOT_APPLICABLE_OPAQUE_SCENE"
+      },
+      "visual_review": "Reviewed full scene: no baked-in text, labels, charts, logos or pictograms; native content added separately."
+    },
+    {
+      "file": "assets/backgrounds/02-inspect-the-details.png",
+      "kind": "background",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-9cdb3feb-483e-49db-819d-444b746fa1b9.png",
+      "generation_prompt": "Create a full-bleed 16:9 landscape environmental background for a presentation. Use the attached approved background as STYLE reference: same refined flat 2D editorial line quality, warm ivory, navy, muted teal, coral, ochre palette, daylight and proportions. Change composition and objects as described. One continuous scene extends to every edge, no detached vignette. No text, letters, numbers, logos, charts, arrows, icons, UI, diagrams, watermarks or reading panels. All screens and paper blank. No 3D, no photorealism. Scene: close-up of a coastal logistics dispatch workbench viewed obliquely. Laptop, sealed kraft parcel, clipped blank papers and a magnifying glass lie only in the RIGHTMOST 27%, lower right; a quiet pale ivory plaster wall occupies LEFT 70% and top 20%, naturally sunlit with very subtle architectural perspective. The desk edge sweeps along the bottommost 8%. No people. Plenty of calm unbroken ivory wall for five native text rows from x 5% to 65% y 28% to 88%. Objects remain clearly recognizable and contextual, not pictograms.",
+      "reference_images_used": [
+        "assets/backgrounds/01-pause-at-desk.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": false,
+      "sha256": "26829dd433551638e91a3c7a937b93a1b33b04629290239ee0add5ffb082fe21",
+      "dimensions_px": [
+        1672,
+        941
+      ],
+      "alpha_check": {
+        "status": "NOT_APPLICABLE_OPAQUE_SCENE"
+      },
+      "visual_review": "Reviewed full scene: no baked-in text, labels, charts, logos or pictograms; native content added separately."
+    },
+    {
+      "file": "assets/backgrounds/03-help-is-close.png",
+      "kind": "background",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-fb28ee32-4a8e-4095-bb51-1d9ab8ba52fb.png",
+      "generation_prompt": "Create a full-bleed 16:9 landscape environmental background for a presentation. Use the attached approved background as STYLE reference: same refined flat 2D editorial line quality, warm ivory, navy, muted teal, coral, ochre palette, daylight and proportions. Change composition and objects as described. One continuous scene extends to every edge, no detached vignette. No text, letters, numbers, logos, charts, arrows, icons, UI, diagrams, watermarks or reading panels. All screens and paper blank. No 3D, no photorealism. Scene: a welcoming IT support corner inside the same harbour office, wide shot. Maya, a woman about 30 with medium-brown skin, a short dark curly bob, a muted teal overshirt over an ivory top, navy trousers, stands at a support desk speaking calmly to a colleague: a man about 40 with light brown skin, close-cropped black hair, clean-shaven face and ochre sweater. All people, desktop screen and desk occupy RIGHTMOST 38%, BELOW 43% canvas height. LEFT 58% and TOP 28% quiet ivory wall for editable text. A maritime window and distant container ships at far right. Human reassuring interaction, neither person frightened. No speech bubbles.",
+      "reference_images_used": [
+        "assets/backgrounds/01-pause-at-desk.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": false,
+      "sha256": "f0312d6ff0d76964f4b032c195aee8495a8137abcae458aa00910bf7530e279a",
+      "dimensions_px": [
+        1672,
+        941
+      ],
+      "alpha_check": {
+        "status": "NOT_APPLICABLE_OPAQUE_SCENE"
+      },
+      "visual_review": "Reviewed full scene: no baked-in text, labels, charts, logos or pictograms; native content added separately."
+    },
+    {
+      "file": "assets/backgrounds/04-unexpected-prompt.png",
+      "kind": "background",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-2e59cc42-1270-4772-831f-08c5a83bca20.png",
+      "generation_prompt": "Create a full-bleed 16:9 landscape environmental background for a presentation. Use the attached approved background as STYLE reference: same refined flat 2D editorial line quality, warm ivory, navy, muted teal, coral, ochre palette, daylight and proportions. Change composition and objects as described. One continuous scene extends to every edge, no detached vignette. No text, letters, numbers, logos, charts, arrows, icons, UI, diagrams, watermarks or reading panels. All screens and paper blank. No 3D, no photorealism. Scene: overhead close-up of a pale ivory desk with a large dark navy smartphone lying vertically, screen blank muted pale teal, in the LEFTMOST 27%, below 30% canvas height. A teal sleeve and medium-brown hand rests near the phone at lower left, fingers relaxed away from screen. Restrained coral notebook cropped at far left. No person face. RIGHT 67% and top 24% is clean quiet ivory desktop with no objects for native two-step flow and a security policy message. The continuous desktop extends to all edges. Soft flat editorial daylight shadow, no texture noise.",
+      "reference_images_used": [
+        "assets/backgrounds/01-pause-at-desk.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": false,
+      "sha256": "8e43f694a4e522fffde4b5d9d908d017d85dddb3f67e3ab02dbc098de3f869c2",
+      "dimensions_px": [
+        1672,
+        941
+      ],
+      "alpha_check": {
+        "status": "NOT_APPLICABLE_OPAQUE_SCENE"
+      },
+      "visual_review": "Reviewed full scene: no baked-in text, labels, charts, logos or pictograms; native content added separately."
+    },
+    {
+      "file": "assets/backgrounds/05-practice-desk.png",
+      "kind": "background",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-179a50b5-2940-4115-b9c4-dae454ba85cf.png",
+      "generation_prompt": "Create a full-bleed 16:9 landscape environmental background for a presentation. Use the attached approved background as STYLE reference: same refined flat 2D editorial line quality, warm ivory, navy, muted teal, coral, ochre palette, daylight and proportions. Change composition and objects as described. One continuous scene extends to every edge, no detached vignette. No text, letters, numbers, logos, charts, arrows, icons, UI, diagrams, watermarks or reading panels. All screens and paper blank. No 3D, no photorealism. Scene: top-down view of the same dispatch desk in warm pale ivory, environment fills every edge. Blank keyboard partly cropped along upper RIGHT corner, teal pencil and blank notebook cropped on far-right edge, closed kraft parcel at lower RIGHT corner. Left and central 83% desk surface is extremely quiet pale ivory, no grain, no dramatic shadows, empty for a large native editable email exercise and prompts. No people. A sliver of muted teal desk mat on lower edge gives depth; mostly warm ivory. No envelope illustrations or interface drawings.",
+      "reference_images_used": [
+        "assets/backgrounds/01-pause-at-desk.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": false,
+      "sha256": "aa798e0f319b146df9b533283717dd4e2d79b7a18900dfe9c19eccfb0a61ed80",
+      "dimensions_px": [
+        1672,
+        941
+      ],
+      "alpha_check": {
+        "status": "NOT_APPLICABLE_OPAQUE_SCENE"
+      },
+      "visual_review": "Reviewed full scene: no baked-in text, labels, charts, logos or pictograms; native content added separately."
+    },
+    {
+      "kind": "icon",
+      "file": "assets/icons/urgency.png",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-655a1022-e786-4ebd-b66e-6329372c09bd.png",
+      "generation_prompt": "Create one flat 2D pictogram representing urgency: a simple analog alarm clock with two hands and no numbers or tick marks. A clean, front-facing editorial pictogram, rounded thick dark navy #183743 outline, muted coral #AE4E3D clock casing and a pale ivory face, simple solid fills. Precise rounded geometry, substantial bold silhouette readable at small size. Square canvas, centered symbol fills 78% with clean padding. Genuinely alpha-transparent background. No white rectangle, colored backing tile, checkerboard, shadow, glow, bevel, 3D, text, letters, numbers or embedded label. Preserve intentional pale ivory clock face; outside the whole symbol must be transparent. One concept, one standalone icon.",
+      "reference_images_used": [],
+      "tool": "built-in image_gen",
+      "transparent_background_option": true,
+      "sha256": "36039bcb4e836025f091bc460b204955c81aa3ac242db60d0be7543168fa78d0",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.480868,
+        "visible_fraction": 0.519132,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.997406,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "result": "No backing boxes, checkerboards, white fringes or erased interior fills observed",
+        "surfaces": [
+          "white",
+          "dark navy",
+          "actual scene background"
+        ],
+        "renderer": "PowerPoint 16 export of temporary icon review deck; individual final slide previews also reviewed"
+      }
+    },
+    {
+      "file": "assets/icons/sender.png",
+      "kind": "icon",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-ef638550-91c2-43d5-baf3-aaa6f7bd185f.png",
+      "generation_prompt": "Create ONE standalone flat 2D pictogram on a genuinely alpha-transparent background. Use attached clock only as STYLE reference: same substantial rounded dark navy #183743 outline weight, corner rounding, simple solid fills, clean editorial geometry. Square canvas, centered whole symbol fills about 78% with clean padding. No shadow, glow, bevel, 3D, white rectangle, backing tile, checkerboard, text, letters, numbers or embedded labels. Outside the symbol entirely transparent. Preserve any intentional ivory interior fill. Concept: sender identity. One simple teal #226F70 identity badge with ivory inset and a navy human head-and-shoulders silhouette. No writing or lines imitating writing.",
+      "reference_images_used": [
+        "assets/icons/urgency.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": true,
+      "sha256": "09573086767ad1f390ebbaf25cb2208169c35868952290519293b4ae62ea71be",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.51161,
+        "visible_fraction": 0.48839,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.9998,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "result": "No backing boxes, checkerboards, white fringes or erased interior fills observed",
+        "surfaces": [
+          "white",
+          "dark navy",
+          "actual scene background"
+        ],
+        "renderer": "PowerPoint 16 export of temporary icon review deck; individual final slide previews also reviewed"
+      }
+    },
+    {
+      "file": "assets/icons/link.png",
+      "kind": "icon",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-f441c8ac-8e20-4bcd-80aa-52a6244e6530.png",
+      "generation_prompt": "Create ONE standalone flat 2D pictogram on a genuinely alpha-transparent background. Use attached clock only as STYLE reference: same substantial rounded dark navy #183743 outline weight, corner rounding, simple solid fills, clean editorial geometry. Square canvas, centered whole symbol fills about 78% with clean padding. No shadow, glow, bevel, 3D, white rectangle, backing tile, checkerboard, text, letters, numbers or embedded labels. Outside the symbol entirely transparent. Preserve any intentional ivory interior fill. Concept: link destination mismatch. Two ochre #9A641E chain links separated by a small visible gap, a broken connection. Simple bold diagonal chain silhouette; no extra marks.",
+      "reference_images_used": [
+        "assets/icons/urgency.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": true,
+      "sha256": "dc93334ddffbd6ed24c1e37c0e0177e529b20822d919bb544d7b364bb5f0bdc7",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.749294,
+        "visible_fraction": 0.250706,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.998603,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "result": "No backing boxes, checkerboards, white fringes or erased interior fills observed",
+        "surfaces": [
+          "white",
+          "dark navy",
+          "actual scene background"
+        ],
+        "renderer": "PowerPoint 16 export of temporary icon review deck; individual final slide previews also reviewed"
+      }
+    },
+    {
+      "file": "assets/icons/secret.png",
+      "kind": "icon",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-bd97ab04-3e47-4359-b17e-ad39242e28a8.png",
+      "generation_prompt": "Create ONE standalone flat 2D pictogram on a genuinely alpha-transparent background. Use attached clock only as STYLE reference: same substantial rounded dark navy #183743 outline weight, corner rounding, simple solid fills, clean editorial geometry. Square canvas, centered whole symbol fills about 78% with clean padding. No shadow, glow, bevel, 3D, white rectangle, backing tile, checkerboard, text, letters, numbers or embedded labels. Outside the symbol entirely transparent. Preserve any intentional ivory interior fill. Concept: private password or authentication code. One traditional coral #AE4E3D key with a round bow and two teeth, diagonally oriented. Hole in bow fully transparent. No padlock or secondary object.",
+      "reference_images_used": [
+        "assets/icons/urgency.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": true,
+      "sha256": "e65eef3a8749afa6c4efd53cd2af2b6bc111f30ccddd11d0603c0b895a5520d7",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.818465,
+        "visible_fraction": 0.181535,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 1.0,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "result": "No backing boxes, checkerboards, white fringes or erased interior fills observed",
+        "surfaces": [
+          "white",
+          "dark navy",
+          "actual scene background"
+        ],
+        "renderer": "PowerPoint 16 export of temporary icon review deck; individual final slide previews also reviewed"
+      }
+    },
+    {
+      "file": "assets/icons/attachment.png",
+      "kind": "icon",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-51230eb1-16c7-409c-a41d-01d8744c96ec.png",
+      "generation_prompt": "Create ONE standalone flat 2D pictogram on a genuinely alpha-transparent background. Use attached clock only as STYLE reference: same substantial rounded dark navy #183743 outline weight, corner rounding, simple solid fills, clean editorial geometry. Square canvas, centered whole symbol fills about 78% with clean padding. No shadow, glow, bevel, 3D, white rectangle, backing tile, checkerboard, text, letters, numbers or embedded labels. Outside the symbol entirely transparent. Preserve any intentional ivory interior fill. Concept: unexpected file attachment. One ivory folded-corner document with an ochre #9A641E paperclip attached, outlined navy. No text or lines on document.",
+      "reference_images_used": [
+        "assets/icons/urgency.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": true,
+      "sha256": "bf589b3faed277a1c97c798bae0e595bd3f1000ae170283fe197e9c0efe30418",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.556522,
+        "visible_fraction": 0.443478,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 1.0,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "result": "No backing boxes, checkerboards, white fringes or erased interior fills observed",
+        "surfaces": [
+          "white",
+          "dark navy",
+          "actual scene background"
+        ],
+        "renderer": "PowerPoint 16 export of temporary icon review deck; individual final slide previews also reviewed"
+      }
+    },
+    {
+      "file": "assets/icons/report.png",
+      "kind": "icon",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-dfb462bf-acba-47e8-8a39-1b7d67dcec3a.png",
+      "generation_prompt": "Create ONE standalone flat 2D pictogram on a genuinely alpha-transparent background. Use attached clock only as STYLE reference: same substantial rounded dark navy #183743 outline weight, corner rounding, simple solid fills, clean editorial geometry. Square canvas, centered whole symbol fills about 78% with clean padding. No shadow, glow, bevel, 3D, white rectangle, backing tile, checkerboard, text, letters, numbers or embedded labels. Outside the symbol entirely transparent. Preserve any intentional ivory interior fill. Concept: report suspicious activity. One muted teal #226F70 signal flag on short navy pole with rounded ends, front-facing. Plain flag without emblem. No base or backing.",
+      "reference_images_used": [
+        "assets/icons/urgency.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": true,
+      "sha256": "9d9d3b7bda31c35d3ca40b69bded193bd8883cf03600232b05278835008d3fce",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.719556,
+        "visible_fraction": 0.280444,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 1.0,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "result": "No backing boxes, checkerboards, white fringes or erased interior fills observed",
+        "surfaces": [
+          "white",
+          "dark navy",
+          "actual scene background"
+        ],
+        "renderer": "PowerPoint 16 export of temporary icon review deck; individual final slide previews also reviewed"
+      }
+    },
+    {
+      "file": "assets/icons/helpdesk.png",
+      "kind": "icon",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-2a9e16aa-80cf-49d2-8b2d-ce468ad883f6.png",
+      "generation_prompt": "Create ONE standalone flat 2D pictogram on a genuinely alpha-transparent background. Use attached clock only as STYLE reference: same substantial rounded dark navy #183743 outline weight, corner rounding, simple solid fills, clean editorial geometry. Square canvas, centered whole symbol fills about 78% with clean padding. No shadow, glow, bevel, 3D, white rectangle, backing tile, checkerboard, text, letters, numbers or embedded labels. Outside the symbol entirely transparent. Preserve any intentional ivory interior fill. Concept: call IT helpdesk. One classic muted teal #226F70 telephone handset with rounded navy outlines, diagonal orientation. No speech bubble or extra symbol.",
+      "reference_images_used": [
+        "assets/icons/urgency.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": true,
+      "sha256": "8bba640a1ed0e9ec501301ba74bc78acc075e3250effd6e2b486188bf53174c3",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.731417,
+        "visible_fraction": 0.268583,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.986034,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "result": "No backing boxes, checkerboards, white fringes or erased interior fills observed",
+        "surfaces": [
+          "white",
+          "dark navy",
+          "actual scene background"
+        ],
+        "renderer": "PowerPoint 16 export of temporary icon review deck; individual final slide previews also reviewed"
+      }
+    },
+    {
+      "file": "assets/icons/deny.png",
+      "kind": "icon",
+      "source_path": "~/.codex/generated_images/01a1a3ee-e399-7e02-b726-18d977e3fb91/exec-8a975a8e-3b9f-438c-831e-8dff468a53ec.png",
+      "generation_prompt": "Create ONE standalone flat 2D pictogram on a genuinely alpha-transparent background. Use attached clock only as STYLE reference: same substantial rounded dark navy #183743 outline weight, corner rounding, simple solid fills, clean editorial geometry. Square canvas, centered whole symbol fills about 78% with clean padding. No shadow, glow, bevel, 3D, white rectangle, backing tile, checkerboard, text, letters, numbers or embedded labels. Outside the symbol entirely transparent. Preserve any intentional ivory interior fill. Concept: deny an unsolicited prompt. One coral #AE4E3D raised open palm, front-facing, five rounded fingers, dark navy outline. Simple geometric hand silhouette; no circle, letters, slash, or secondary object.",
+      "reference_images_used": [
+        "assets/icons/urgency.png"
+      ],
+      "tool": "built-in image_gen",
+      "transparent_background_option": true,
+      "sha256": "0a015cbcac97d55d03462d6a5887a3cd92b92cdc149e020a146de50d8bb7d1be",
+      "dimensions_px": [
+        1254,
+        1254
+      ],
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.589661,
+        "visible_fraction": 0.410339,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.999002,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "result": "No backing boxes, checkerboards, white fringes or erased interior fills observed",
+        "surfaces": [
+          "white",
+          "dark navy",
+          "actual scene background"
+        ],
+        "renderer": "PowerPoint 16 export of temporary icon review deck; individual final slide previews also reviewed"
+      }
+    }
+  ],
+  "verification": {
+    "layout": {
+      "path": "04_Phishing_Onboarding\\Harbourline_Phishing_Basics.pptx",
+      "status": "NO_GEOMETRY_FINDINGS_VISUAL_REVIEW_REQUIRED",
+      "slides": 5,
+      "issues": 0,
+      "checks": 0,
+      "text_estimate": "font metrics",
+      "fonts_substituted": [],
+      "findings": [],
+      "visual_review": "Text sizes are estimated from fonts, not rendered. Confirm every finding on the exported slide image; a clean result does not replace visual review."
+    },
+    "structure": [
+      {
+        "slide": 1,
+        "native_text_objects": 6,
+        "pictures": 1,
+        "min_font_pt": 12.0,
+        "max_font_pt": 40.0,
+        "speaker_notes": true,
+        "preview_pixels": [
+          1920,
+          1080
+        ]
+      },
+      {
+        "slide": 2,
+        "native_text_objects": 14,
+        "pictures": 6,
+        "min_font_pt": 12.0,
+        "max_font_pt": 36.0,
+        "speaker_notes": true,
+        "preview_pixels": [
+          1920,
+          1080
+        ]
+      },
+      {
+        "slide": 3,
+        "native_text_objects": 10,
+        "pictures": 3,
+        "min_font_pt": 12.0,
+        "max_font_pt": 36.0,
+        "speaker_notes": true,
+        "preview_pixels": [
+          1920,
+          1080
+        ]
+      },
+      {
+        "slide": 4,
+        "native_text_objects": 11,
+        "pictures": 3,
+        "min_font_pt": 12.0,
+        "max_font_pt": 36.0,
+        "speaker_notes": true,
+        "preview_pixels": [
+          1920,
+          1080
+        ]
+      },
+      {
+        "slide": 5,
+        "native_text_objects": 17,
+        "pictures": 4,
+        "min_font_pt": 12.0,
+        "max_font_pt": 36.0,
+        "speaker_notes": true,
+        "preview_pixels": [
+          1920,
+          1080
+        ]
+      }
+    ],
+    "visual": "Each slide reviewed after PowerPoint export; revisions re-exported; whole-deck and background contact sheets reviewed for consistency and narrative; no unresolved visual defects identified",
+    "icons": {
+      "chosen": 8,
+      "alpha_failures": 0,
+      "parallel_point_coverage": {
+        "slide_1": "Single thesis, no parallel group",
+        "slide_2": "Five warning-sign rows, five matching icons",
+        "slide_3": "Two response rows, report and helpdesk icons",
+        "slide_4": "Deny and report flow, matching icons",
+        "slide_5": "Three clue prompts, sender/urgency/secret icons; email content stays native text"
+      }
+    },
+    "corrections": [
+      "Removed inherited PowerPoint shadows from panels and rules",
+      "Moved the closing exercise question away from footer",
+      "Standardized supporting type at no more than 24 pt"
+    ],
+    "not_done": [
+      "Cross-application rendering in Google Slides, Keynote or LibreOffice",
+      "Live learner testing or timing rehearsal",
+      "Production mail-app integration or validation of fictional contact details"
+    ],
+    "final_package_audit": "Passed: 5 slides, 5 previews at 1920x1080, 13 chosen assets, 5 notes pages, no live hyperlinks",
+    "workspace_cleanup": {
+      "status": "BLOCKED_BY_AUTOMATIC_APPROVAL_REVIEW",
+      "remaining_folder": "../_work_run-4",
+      "reason": "Both recursive and narrower non-recursive cleanup commands rejected as blocked by policy",
+      "deliverable_folder_clean": true
+    }
+  },
+  "known_issues": []
+}

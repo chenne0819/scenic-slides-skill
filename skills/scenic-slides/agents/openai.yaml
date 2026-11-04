@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scenic Slides"
+  short_description: "Editable slides with scenes and transparent 2D icons"
+  default_prompt: "Use $scenic-slides to create or refine an editable presentation with full-slide contextual backgrounds and transparent 2D icons while preserving approved slides."

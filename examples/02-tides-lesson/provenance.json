@@ -1,0 +1,341 @@
+{
+  "date": "2026-11-04",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "file": "assets/backgrounds/01-curious-shore.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-99102270-6423-49ea-ad39-2d3c90e9221e.png",
+      "prompt": "Use case: illustration-story. Create a full-bleed 16:9 landscape illustration, 1536x864 or similar wide ratio, as the contextual background for a beautiful Year 6 science presentation. One continuous coastal landscape extends to every edge. Main subject: a sheltered sandy beach curves around to a rocky tidepool in the lower-right third, small rounded sea-worn rocks, turquoise water and a distant lavender headland. Camera: wide shore-level view. Keep the LEFT 65% and TOP 55% exceptionally calm pale aqua sky with only a subtle atmospheric wash; shoreline and main rocks live in bottom third and far right. Style: refined flat 2D editorial illustration, clean gently rounded contours, generous simple shapes, delicate restrained paper texture, soft atmospheric layers, like a beautifully art-directed children's science book. Palette: warm ivory sand #F5E8CF, sea-glass teal #298F91, pale aqua #E7F4F3, ink navy #183F4A, muted coral #D97961 and lavender #A5A4C8. A few thin curved water edges but no busy repetitive line pattern. Inviting and curious, no people, no faces. No text, letters, numbers, charts, arrows, icons, logos, diagram, borders or graphic panels. Not a slide layout, no 3D, no photorealism. Environment fills the canvas.",
+      "reference_images": [],
+      "transparent_background": false,
+      "alpha_check": "Not applicable: opaque full-slide scene",
+      "visual_review": "Full-bleed scene inspected; no generated labels, charts, arrows, icons or logos observed"
+    },
+    {
+      "file": "assets/backgrounds/02-tide-rhythm.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-5ef884e3-d541-4458-b3ca-f123cc3452c8.png",
+      "prompt": "Use attached approved coastal illustration ONLY as style reference: same flat 2D editorial shapes, clean contours, paper touch, sea-glass teal, pale aqua, sand, coral and lavender palette. Create a NEW full-bleed 16:9 continuous seaside landscape background. Scene: a very wide empty beach seen from slightly above; broad wet sand curves at bottom-left, quiet turquoise sea at bottom-right, a tiny lavender distant headland along far right. Keep all distinct shoreline detail below 72% height, and RIGHTMOST 20%. Upper 70% is naturally luminous pale aqua open sky with very subtle atmospheric colour, exceptionally calm for large native text and teaching rows. No people. Environment extends to every edge. No text, letters, numbers, icons, charts, arrows, diagrams, logos, borders or text panels. Flat and beautifully restrained, no 3D.",
+      "reference_images": [
+        "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-99102270-6423-49ea-ad39-2d3c90e9221e.png"
+      ],
+      "transparent_background": false,
+      "alpha_check": "Not applicable: opaque full-slide scene",
+      "visual_review": "Full-bleed scene inspected; no generated labels, charts, arrows, icons or logos observed"
+    },
+    {
+      "file": "assets/backgrounds/03-moonlit-horizon.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-d72b1783-04a9-4c3b-bf92-fbaeadc3ca9d.png",
+      "prompt": "Use attached approved background ONLY for the same flat 2D editorial illustration style, delicate paper texture and coastal palette. New full-bleed 16:9 continuous scene: looking from a beach toward an immense pale lavender-aqua twilight sky. A very low flat sea horizon at 87% canvas height, small dark-teal waves on the bottom edge, rounded sandy dunes and a few dune grasses restricted to bottom-left and bottom-right corners. The TOP 85% is luminous very pale calm sky, virtually uniform, for an editable Earth and Moon teaching model. No actual moon or sun in the artwork; these will be native objects. Environment extends to all edges. No people, text, letters, numbers, charts, arrows, icons, logos, diagrams, borders, panels or 3D.",
+      "reference_images": [
+        "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-99102270-6423-49ea-ad39-2d3c90e9221e.png"
+      ],
+      "transparent_background": false,
+      "alpha_check": "Not applicable: opaque full-slide scene",
+      "visual_review": "Full-bleed scene inspected; no generated labels, charts, arrows, icons or logos observed"
+    },
+    {
+      "file": "assets/backgrounds/04-coastal-bay.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-72e57459-b7f6-4df5-ae03-46113e801079.png",
+      "prompt": "Use attached approved background ONLY for the same refined flat 2D editorial illustration style, clean contours, restrained paper texture and teal/sand/lavender/coral palette. New full-bleed 16:9 coastal landscape: a distant sheltered bay viewed from the gently sloping top of a low headland. Broad pale warm ivory-aqua sky covers upper 80% with very subtle light atmospheric colour, naturally quiet for two side-by-side native teaching diagrams. The bay with turquoise sea, small rounded lavender offshore rocks, a crescent of sandy shore and a few grasses hugs the BOTTOM 18% of the frame. One continuous expansive environment extending to every edge. No people, moon, sun, text, letters, numbers, charts, arrows, icons, logos, diagrams, text panels, borders or 3D.",
+      "reference_images": [
+        "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-99102270-6423-49ea-ad39-2d3c90e9221e.png"
+      ],
+      "transparent_background": false,
+      "alpha_check": "Not applicable: opaque full-slide scene",
+      "visual_review": "Full-bleed scene inspected; no generated labels, charts, arrows, icons or logos observed"
+    },
+    {
+      "file": "assets/backgrounds/05-rockpool-discovery.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-02c39432-47b3-4a77-a349-09cbd5c23fcc.png",
+      "prompt": "Use attached approved coastal background ONLY as style reference: same flat 2D editorial illustration, clean contours, subtle paper touch and pale aqua, sea-glass teal, warm sand, muted coral, lavender palette. Create a new full-bleed 16:9 continuous rocky beach scene for a children's lesson. People only in RIGHTMOST 30%, below 37% height: child aged 11 with short dark curly hair, coral sweatshirt, navy shorts and teal shoes; adult with dark shoulder-length hair, ochre jacket, navy trousers and teal shoes. They stand together safely on broad dry rounded rocks, looking down at a small shallow rock pool, no tools or buckets, warm curious expressions, natural proportions. Lower right tidepool detailed, open sandy walking route behind them. LEFT 68% and TOP 30% extremely calm naturally pale aqua sky/sand atmosphere for native large text. Keep horizon and any distant headland faint. Environment extends to every edge. No text, letters, numbers, charts, arrows, icons, diagrams, logos, graphic panels, borders or 3D.",
+      "reference_images": [
+        "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-99102270-6423-49ea-ad39-2d3c90e9221e.png"
+      ],
+      "transparent_background": false,
+      "alpha_check": "Not applicable: opaque full-slide scene",
+      "visual_review": "Full-bleed scene inspected; no generated labels, charts, arrows, icons or logos observed"
+    },
+    {
+      "file": "assets/icons/high-tide.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-b8e65634-c788-452d-9433-49546fd62495.png",
+      "prompt": "Create one flat 2D pictogram representing high tide: a tall gently rounded teal wave with a warm sand-coloured small rock mostly submerged at its foot. One simple compact symbol, NOT a miniature landscape. Bold clean rounded dark navy #183F4A outlines of consistent weight; solid teal #298F91 and pale aqua fills, tiny warm sand accent #F5E8CF. Friendly editorial children's science-book icon, no faces, no texture, no perspective, no shadows. Centered on square canvas, generous clear padding. Genuinely transparent alpha background. No white rectangle, coloured tile, checkerboard pattern, glow, bevel, text, number, arrow, label or logo. Keep all intended interior pale fills opaque. Use the transparent background option.",
+      "reference_images": [],
+      "transparent_background": true,
+      "alpha_check": {
+        "path": "assets/icons/high-tide.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.548655,
+        "visible_fraction": 0.451345,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.999601,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "white": "clear; no box or fringe observed",
+        "dark_navy": "clear; no box or fringe observed",
+        "actual_background": "clear; interior fills preserved",
+        "method": "PowerPoint-exported temporary three-background review sheet and final slide previews"
+      }
+    },
+    {
+      "file": "assets/icons/low-tide.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-f1b7cb8b-6a29-4977-b5d4-06d1285bdfc5.png",
+      "prompt": "Create one flat 2D pictogram representing low tide: a clearly exposed large rounded sand-coloured rock above just two low shallow teal ripples at its base. Use attached high-tide icon ONLY as family style reference: same bold rounded navy outlines, simple solid teal, pale aqua and warm sand fills, friendly proportions. One compact symbol, not a landscape. No wave crest. Centered with generous clear padding. Genuinely transparent alpha background; no white rectangle, coloured tile, checkerboard, shadow, glow, bevel, text, numbers, arrows, labels or logo. Preserve intentional interior fills opaque.",
+      "reference_images": [
+        "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-b8e65634-c788-452d-9433-49546fd62495.png"
+      ],
+      "transparent_background": true,
+      "alpha_check": {
+        "path": "assets/icons/low-tide.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.670723,
+        "visible_fraction": 0.329277,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.997007,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "white": "clear; no box or fringe observed",
+        "dark_navy": "clear; no box or fringe observed",
+        "actual_background": "clear; interior fills preserved",
+        "method": "PowerPoint-exported temporary three-background review sheet and final slide previews"
+      }
+    },
+    {
+      "file": "assets/icons/tide-clock.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-ff021fb7-ee06-4d70-8894-589675272db2.png",
+      "prompt": "Create one flat 2D pictogram representing checking tide times: a round simple clock with two plain hands and a little teal water ripple incorporated at its bottom. No tick marks, no digits, no text. Use attached icon ONLY as family style reference: same bold rounded navy #183F4A outlines, simple teal #298F91 and pale aqua fills, tiny coral accent on hands. One compact symbol, front-facing, centered with generous clear padding. Genuinely transparent alpha background. No white rectangle, coloured tile, checkerboard, shadow, glow, bevel, labels or logo. Keep interior light aqua clock face opaque.",
+      "reference_images": [
+        "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-b8e65634-c788-452d-9433-49546fd62495.png"
+      ],
+      "transparent_background": true,
+      "alpha_check": {
+        "path": "assets/icons/tide-clock.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.618603,
+        "visible_fraction": 0.381397,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 1.0,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "white": "clear; no box or fringe observed",
+        "dark_navy": "clear; no box or fringe observed",
+        "actual_background": "clear; interior fills preserved",
+        "method": "PowerPoint-exported temporary three-background review sheet and final slide previews"
+      }
+    },
+    {
+      "file": "assets/icons/spring-splash.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-bdecb50b-22fe-4eac-8f81-5b11fb72d9c1.png",
+      "prompt": "Create one flat 2D pictogram representing spring tides as a powerful upward splash of ocean water: three clean rounded teal water lobes with one small coral droplet above. Simple compact symbol, no arrows. Use attached icon ONLY as family style reference: same bold rounded dark navy outlines, solid teal and pale aqua fills, friendly proportions. Centered square canvas with generous clear padding. Genuinely transparent alpha background. No white rectangle, coloured tile, checkerboard, shadow, glow, bevel, text, number, label or logo. Not a miniature scene.",
+      "reference_images": [
+        "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-b8e65634-c788-452d-9433-49546fd62495.png"
+      ],
+      "transparent_background": true,
+      "alpha_check": {
+        "path": "assets/icons/spring-splash.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.678648,
+        "visible_fraction": 0.321352,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 1.0,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "white": "clear; no box or fringe observed",
+        "dark_navy": "clear; no box or fringe observed",
+        "actual_background": "clear; interior fills preserved",
+        "method": "PowerPoint-exported temporary three-background review sheet and final slide previews"
+      }
+    },
+    {
+      "file": "assets/icons/neap-ripples.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-4422c327-fb3b-4445-bbeb-9db1eb527cdf.png",
+      "prompt": "Create one flat 2D pictogram representing neap tides as three small quiet shallow ocean ripples, stacked closely with low rounded crests. No rock and no tall wave. Use attached icon ONLY as family style reference: same bold rounded navy outlines, simple solid teal and pale aqua fills, friendly proportions. One compact symbol, centered square with generous clear padding. Genuinely transparent alpha background. No white rectangle, coloured tile, checkerboard, shadow, glow, bevel, text, number, arrow, label or logo. Not a miniature scene.",
+      "reference_images": [
+        "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-b8e65634-c788-452d-9433-49546fd62495.png"
+      ],
+      "transparent_background": true,
+      "alpha_check": {
+        "path": "assets/icons/neap-ripples.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.805744,
+        "visible_fraction": 0.194256,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.998005,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "white": "clear; no box or fringe observed",
+        "dark_navy": "clear; no box or fringe observed",
+        "actual_background": "clear; interior fills preserved",
+        "method": "PowerPoint-exported temporary three-background review sheet and final slide previews"
+      }
+    },
+    {
+      "file": "assets/icons/keep-watch.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-92e570db-5a7a-4b84-b27b-0d25e065ce07.png",
+      "prompt": "Create one flat 2D pictogram representing keeping watch: one friendly open eye with a teal iris, dark navy pupil and opaque pale aqua eye interior. Use attached icon ONLY as family style reference: same bold rounded dark navy outlines, simple solid teal and pale aqua fills, friendly proportions. One compact symbol, front-facing, centered square canvas with generous clear padding. Genuinely transparent alpha background. No white rectangle, coloured tile, checkerboard, shadow, glow, bevel, text, number, arrow, label or logo. Preserve the interior light fill opaque.",
+      "reference_images": [
+        "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-b8e65634-c788-452d-9433-49546fd62495.png"
+      ],
+      "transparent_background": true,
+      "alpha_check": {
+        "path": "assets/icons/keep-watch.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.676206,
+        "visible_fraction": 0.323794,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.999401,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "white": "clear; no box or fringe observed",
+        "dark_navy": "clear; no box or fringe observed",
+        "actual_background": "clear; interior fills preserved",
+        "method": "PowerPoint-exported temporary three-background review sheet and final slide previews"
+      }
+    },
+    {
+      "file": "assets/icons/with-an-adult.png",
+      "source_path": "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-138a90ca-a6ab-42cd-b540-c46bbe9d2603.png",
+      "prompt": "Create one flat 2D pictogram representing going with an adult: simple standing adult and smaller child holding hands, adult in teal and child in muted coral, rounded warm sand-coloured heads, no facial detail. Use attached icon ONLY as family style reference: same bold rounded dark navy outlines, simple solid fills, friendly proportions. One compact single concept symbol, front-facing, centered square canvas with generous clear padding, complete bodies. Genuinely transparent alpha background. No white rectangle, coloured tile, checkerboard, shadow, glow, bevel, text, numbers, arrows, labels or logo.",
+      "reference_images": [
+        "~/.codex/generated_images/01a1a3df-e3e5-7761-9144-1e41c0b319c4/exec-b8e65634-c788-452d-9433-49546fd62495.png"
+      ],
+      "transparent_background": true,
+      "alpha_check": {
+        "path": "assets/icons/with-an-adult.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.683075,
+        "visible_fraction": 0.316925,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 1.0,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": {
+        "white": "clear; no box or fringe observed",
+        "dark_navy": "clear; no box or fringe observed",
+        "actual_background": "clear; interior fills preserved",
+        "method": "PowerPoint-exported temporary three-background review sheet and final slide previews"
+      }
+    }
+  ],
+  "characters": [
+    "child aged 11 with short dark curly hair, coral sweatshirt, navy shorts and teal shoes",
+    "adult with dark shoulder-length hair, ochre jacket, navy trousers and teal shoes"
+  ],
+  "references_reviewed": [
+    "COM9001/簡報1.pdf",
+    "Final_Project_Archives/project-only-20261026-154536/files/docs/presentation/previews/*.png",
+    "Final_Project_Archives/project-only-20261026-154536/files/docs/presentation/design-spec.md",
+    "Final_Project_Archives/project-only-20261026-154536/files/docs/presentation/assets/background-generation-provenance.json"
+  ],
+  "construction": {
+    "authoring": "python-pptx; native editable text and diagrams",
+    "renderer": "Microsoft PowerPoint COM",
+    "shared_mutex": "Local\\SkillDemoDecksPowerPoint",
+    "preview_dimensions": [
+      1920,
+      1080
+    ],
+    "slides": 5,
+    "slide_points": [
+      960,
+      540
+    ],
+    "native_text_boxes": 54,
+    "notes_sentences_per_slide": [
+      3,
+      4,
+      4,
+      4,
+      4
+    ],
+    "fonts": [
+      "Aptos Display",
+      "Aptos"
+    ],
+    "body_points": [
+      22,
+      28
+    ],
+    "minimum_points": 14
+  },
+  "validation": {
+    "layout": {
+      "path": "02_Tides_Science_Lesson\\Why_The_Sea_Goes_In_And_Out.pptx",
+      "status": "NO_GEOMETRY_FINDINGS_VISUAL_REVIEW_REQUIRED",
+      "slides": 5,
+      "issues": 0,
+      "checks": 0,
+      "text_estimate": "font metrics",
+      "fonts_substituted": [],
+      "findings": [],
+      "visual_review": "Text sizes are estimated from fonts, not rendered. Confirm every finding on the exported slide image; a clean result does not replace visual review."
+    },
+    "all_assets_used": true,
+    "all_slides_visually_reviewed": true,
+    "icon_alpha_and_visual_review_completed": true,
+    "unresolved_layout_or_alpha_findings": [],
+    "not_done": [
+      "classroom or projector testing",
+      "Keynote, Google Slides or older Office compatibility testing"
+    ]
+  },
+  "content_sources": [
+    "https://oceanservice.noaa.gov/facts/tidefrequency.html",
+    "https://oceanservice.noaa.gov/facts/springtide.html",
+    "https://oceanservice.noaa.gov/education/tutorial_tides/tides05_lunarday.html"
+  ]
+}

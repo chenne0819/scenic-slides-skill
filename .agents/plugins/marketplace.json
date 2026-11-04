@@ -1,0 +1,21 @@
+{
+  "name": "scenic-slides",
+  "interface": {
+    "displayName": "Scenic Slides"
+  },
+  "plugins": [
+    {
+      "name": "scenic-slides",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chenne0819/scenic-slides-skill.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "deck": "Cooling_The_Street_Proposal.pptx",
+  "date": "2026-11-04",
+  "generator": "built-in image_gen",
+  "background_transparency_requested": false,
+  "icon_transparency_requested": true,
+  "assets": [
+    {
+      "file": "assets/backgrounds/01-canopy-street.png",
+      "source": "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-3796e994-c5a6-43a4-891a-7f095f0c1966.png",
+      "prompt": "Create a 16:9 full-bleed landscape background for an editable honours research proposal presentation. One continuous empty inner-city residential street on a hot summer afternoon, refined flat 2D editorial illustration, clean controlled contours, elegant broad shapes, subtle atmospheric flat washes, professional illustrated environmental report. Composition: the RIGHTMOST 40% contains a mature eucalyptus-like street tree, continuous canopy, terracotta low-rise buildings and footpath receding toward a distant street; warm sunlit paving and cool green shade form a compelling quiet contrast. The LEFT 58% and TOP 22% are naturally open very pale warm ivory sky with faint distant architecture only at bottom. The environment extends to every canvas edge, including pale ground across bottom; this is not a detached vignette. Palette warm ivory #F7F2E7, muted eucalyptus green #547867, deep forest #264A41, dusty terracotta #AD543F, slate blue #426479. Fine editorial shapes, almost no texture, no glossy gradients. No people, no text, letters, numbers, logos, charts, arrows, icons, diagrams, UI panels, borders or watermarks. No photorealism, no 3D. Main details on right; clear sky on left for title. Generate at 1536x864 or another exact 16:9 resolution.",
+      "references": [],
+      "alpha_check": "Not applicable: opaque full-slide scene",
+      "sha256": "768b4a42a394ee4c6d8669789a702d6a84f96770e562283e7c0eb3a88b0bd27f"
+    },
+    {
+      "file": "assets/icons/surface-heat.png",
+      "source": "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-c4bfc601-498c-4e37-9960-47497674896b.png",
+      "prompt": "Create one flat 2D pictogram representing stored surface heat: a simple paving slab with three rising curved heat strokes. Single unified concept. Front-facing, clean rounded medium forest-green outlines, restrained terracotta fill for heat and warm ivory paving face, simple broad fills, matching a refined editorial environmental report. Compact square composition with generous clean padding, whole symbol inside canvas. A genuinely alpha-transparent background. No background rectangle, no tile, no checkerboard, no shadow, glow, bevel, 3D, letters, numbers, arrows, labels or logo. Crisp antialiased edges. Preserve intentional ivory inside the paving slab. Palette #264A41, #AD543F, #F7F2E7.",
+      "references": [],
+      "sha256": "88942bda61dd169c698e81dcfc72153560155fe80bcb31706a5d9e2f0cf2d5c1",
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.668619,
+        "visible_fraction": 0.331381,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 1.0,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": "Reviewed in a PowerPoint-exported temporary review slide on white, dark forest and a scene background, and in final slide placements; no visible backing box, checkerboard, fringe or missing intentional ivory fill."
+    },
+    {
+      "file": "assets/backgrounds/02-hot-footpath.png",
+      "prompt": "Create a full-bleed exact 16:9 background for an editable professional research presentation. Use the attached approved street scene as STYLE reference only: identical refined flat 2D editorial line quality, warm ivory, eucalyptus green, forest ink, terracotta and slate palette, calm atmospheric flat washes. Change composition and viewpoint. One continuous environment reaches every edge. No people, text, letters, numbers, logos, charts, arrows, icons, diagrams, panels, frames or watermarks. No photorealism or 3D. Scene: low eye-level close view along an exposed inner-city concrete footpath and kerb on a sunny summer day. The RIGHTMOST 35% and BOTTOM 24% have warm paving slabs, a terracotta wall and small distant street trees, with a clean edge between sun and tree shade. LEFT 63% above bottom quarter is a naturally pale ivory unadorned rendered wall, broad luminous empty surface for two editorial rows. TOP 23% calm pale wall as well. No heat-wave symbols, no sun icon. Architecture and paving extend through the frame; strong perspective toward right edge.",
+      "source": "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-509dde76-0d9f-4081-993e-a12bed91a150.png",
+      "references": [
+        "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-3796e994-c5a6-43a4-891a-7f095f0c1966.png"
+      ],
+      "alpha_check": "Not applicable: opaque full-slide scene",
+      "sha256": "8de30d72f442115f38f952e807516b236c5578b26bb537bf4c8894644cbf33c4"
+    },
+    {
+      "file": "assets/backgrounds/03-field-equipment.png",
+      "prompt": "Create a full-bleed exact 16:9 background for an editable professional research presentation. Use the attached approved street scene as STYLE reference only: identical refined flat 2D editorial line quality, warm ivory, eucalyptus green, forest ink, terracotta and slate palette, calm atmospheric flat washes. Change composition and viewpoint. One continuous environment reaches every edge. No people, text, letters, numbers, logos, charts, arrows, icons, diagrams, panels, frames or watermarks. No photorealism or 3D. Scene: an outdoor fieldwork station on a very pale sandstone bench beside an urban footpath. Lower-right corner contains a handheld infrared thermometer and a small plain shielded environmental data logger with blank faces, unlabelled field kit, eucalyptus foliage only at far right. The bench plane spans the lower canvas, a continuous pale ivory rendered wall fills background. ALL TOP 30% and CENTRAL 90% above bottom 20% are extremely calm, light and blank for a native three-step method diagram. Main equipment concentrated BOTTOM RIGHT 28%, below 76% canvas height. The scene is tangible yet quiet, equipment natural proportion, not an icon arrangement.",
+      "source": "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-65ffdb56-12eb-4cc1-9566-dfe2f6f4b0b7.png",
+      "references": [
+        "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-3796e994-c5a6-43a4-891a-7f095f0c1966.png"
+      ],
+      "alpha_check": "Not applicable: opaque full-slide scene",
+      "sha256": "cdc16830113b8b2c4955d39be53b97b8b86470b1170510cd8d71bd471bb497df"
+    },
+    {
+      "file": "assets/backgrounds/04-seasonal-street.png",
+      "prompt": "Create an exact 16:9 full-bleed scene background for an editable professional research presentation. Use attached approved street scene as STYLE reference only: same refined flat 2D editorial illustration, controlled shapes, soft flat atmospheric washes, warm ivory #F7F2E7, eucalyptus #547867, forest #264A41, terracotta #AD543F and slate #426479. Change the viewpoint. Continuous environment reaches every edge. No people, text, letters, numbers, logos, charts, arrows, icons, diagram, panels, frames, watermarks, photorealism or 3D. Scene: wide slightly elevated view of a calm inner-city neighbourhood street running horizontally across the BOTTOM QUARTER of the image. Small terracotta terrace houses, repeated street trees and long summer shadows occupy bottom 28%; soft distant skyline at horizon. TOP 68% is broad empty warm ivory sky, completely quiet across full width for an editable timeline. No large tree canopy at top; all trees stay below the lower third. Strong horizontal panorama rather than receding one-sided street. Ground extends to bottom edge. Elegant editorial environmental planning illustration.",
+      "source": "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-5f2877ec-7bec-4c6e-a6ec-7bb8e6521c0c.png",
+      "references": [
+        "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-3796e994-c5a6-43a4-891a-7f095f0c1966.png"
+      ],
+      "alpha_check": "Not applicable: opaque full-slide scene",
+      "sha256": "baf85ff101f4137dc7585ff8ac93cbe05768152dc193c1b8bf12ebc5faad5e94"
+    },
+    {
+      "file": "assets/backgrounds/05-field-notebook.png",
+      "prompt": "Create an exact 16:9 full-bleed scene background for an editable professional research presentation. Use attached approved street scene as STYLE reference only: same refined flat 2D editorial illustration, controlled shapes, soft flat atmospheric washes, warm ivory #F7F2E7, eucalyptus #547867, forest #264A41, terracotta #AD543F and slate #426479. Change the viewpoint. Continuous environment reaches every edge. No people, text, letters, numbers, logos, charts, arrows, icons, diagram, panels, frames, watermarks, photorealism or 3D. Scene: close angled view of a pale outdoor sandstone fieldwork table; a large open blank ivory field notebook, simple wooden pencil and eucalyptus twig arranged on the LEFTMOST 32% and LOWER LEFT. No writing, lines, diagrams or marks on the notebook pages. The pale tabletop extends across the full frame, with a soft background suggestion of a terrace wall at top; RIGHT 65% and TOP 24% extremely pale, calm ivory clear space for two native text rows. A few leaf shadows confined to bottom left edge, not in text space. Subject large and tangible, quiet overhead editorial still life, no charts or measurement results.",
+      "source": "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-73b0709b-71c3-4cde-a7d6-8c665b0081e7.png",
+      "references": [
+        "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-3796e994-c5a6-43a4-891a-7f095f0c1966.png"
+      ],
+      "alpha_check": "Not applicable: opaque full-slide scene",
+      "sha256": "ab535d1e7e3be92516015781116ce681c9908ee5751f96fa0cd1a97481c7e497"
+    },
+    {
+      "file": "assets/icons/footpath-sites.png",
+      "prompt": "Create ONE standalone flat 2D pictogram for a professional environmental research deck. Use attached heat pictogram as STYLE reference only: same rounded medium forest-green line weight, crisp simple solid fills, restrained ivory and eucalyptus/terracotta/slate palette. Single concept only, whole symbol centered inside square canvas with generous padding. Genuine alpha-transparent background, no backing rectangle, tile, checkerboard, shadows, glow, bevel, 3D, text, numbers or labels. Preserve intentional ivory fills inside symbol; outside transparent. Concept: footpath study sites. A simple folded ivory street map with one forest-green location pin and a small terracotta street segment. No route arrows. Map is one unified pictogram, no other objects. Color #264A41 and #547867 outlines with small #AD543F accent.",
+      "source": "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-c818de12-0061-428f-b0ed-27f12eda7e8e.png",
+      "references": [
+        "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-c4bfc601-498c-4e37-9960-47497674896b.png"
+      ],
+      "sha256": "98c34276f67b071d1c33313ae0cf9ac2240ac132a6fad2a98e678b854cd877a7",
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.641656,
+        "visible_fraction": 0.358344,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.996608,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": "Reviewed in a PowerPoint-exported temporary review slide on white, dark forest and a scene background, and in final slide placements; no visible backing box, checkerboard, fringe or missing intentional ivory fill."
+    },
+    {
+      "file": "assets/icons/temperature-measurement.png",
+      "prompt": "Create ONE standalone flat 2D pictogram for a professional environmental research deck. Use attached heat pictogram as STYLE reference only: same rounded medium forest-green line weight, crisp simple solid fills, restrained ivory and eucalyptus/terracotta/slate palette. Single concept only, whole symbol centered inside square canvas with generous padding. Genuine alpha-transparent background, no backing rectangle, tile, checkerboard, shadows, glow, bevel, 3D, text, numbers or labels. Preserve intentional ivory fills inside symbol; outside transparent. Concept: temperature measurement. One simple classic thermometer pictogram, forest outline, ivory internal face and terracotta temperature column, NO tick marks or digits. Compact front-facing. This is a general measurement symbol, not an actual data reading.",
+      "source": "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-182a2922-0d2b-4c50-9df3-f74c239f9750.png",
+      "references": [
+        "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-c4bfc601-498c-4e37-9960-47497674896b.png"
+      ],
+      "sha256": "f826e61cfcab63b4c2feb38050456085215d2db328afb20a9fa92288569f3f14",
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.775114,
+        "visible_fraction": 0.224886,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 1.0,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": "Reviewed in a PowerPoint-exported temporary review slide on white, dark forest and a scene background, and in final slide placements; no visible backing box, checkerboard, fringe or missing intentional ivory fill."
+    },
+    {
+      "file": "assets/icons/paired-analysis.png",
+      "prompt": "Create ONE standalone flat 2D pictogram for a professional environmental research deck. Use attached heat pictogram as STYLE reference only: same rounded medium forest-green line weight, crisp simple solid fills, restrained ivory and eucalyptus/terracotta/slate palette. Single concept only, whole symbol centered inside square canvas with generous padding. Genuine alpha-transparent background, no backing rectangle, tile, checkerboard, shadows, glow, bevel, 3D, text, numbers or labels. Preserve intentional ivory fills inside symbol; outside transparent. Concept: statistical comparison. One simple magnifying glass with two equal-sized adjacent rounded vertical blocks inside the lens, one eucalyptus green and one slate blue, no axis, no tick marks, no numerical values, no rising trend. Forest outline and ivory lens. This is a symbolic comparison pictogram, not a results chart.",
+      "source": "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-c5c004fa-3548-413b-a488-7e901aea9da8.png",
+      "references": [
+        "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-c4bfc601-498c-4e37-9960-47497674896b.png"
+      ],
+      "sha256": "e1248b2ff9e9afc862cf883941a9adbc3965a238f80482a0ac8dacbbc1a67f83",
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.663259,
+        "visible_fraction": 0.336741,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.985235,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": "Reviewed in a PowerPoint-exported temporary review slide on white, dark forest and a scene background, and in final slide placements; no visible backing box, checkerboard, fringe or missing intentional ivory fill."
+    },
+    {
+      "file": "assets/icons/reusable-protocol.png",
+      "prompt": "Create ONE standalone flat 2D pictogram for a professional environmental research deck. Use attached heat pictogram as STYLE reference only: same rounded medium forest-green line weight, crisp simple solid fills, restrained ivory and eucalyptus/terracotta/slate palette. Single concept only, whole symbol centered inside square canvas with generous padding. Genuine alpha-transparent background, no backing rectangle, tile, checkerboard, shadows, glow, bevel, 3D, text, numbers or labels. Preserve intentional ivory fills inside symbol; outside transparent. Concept: reusable measurement protocol. One ivory field clipboard holding a blank sheet and a small forest-green check mark. Three short slate-blue strokes may suggest a procedure but no lettering or numbers; this is a single simple clipboard pictogram. Rounded forest outline, eucalyptus clip.",
+      "source": "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-e2cda13c-9e98-44e9-be8c-009e6c458e83.png",
+      "references": [
+        "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-c4bfc601-498c-4e37-9960-47497674896b.png"
+      ],
+      "sha256": "60d747bfb2e28a107c459d79b6d7476e93456f73bb8e069069a14c27ec1f0844",
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.566976,
+        "visible_fraction": 0.433024,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 1.0,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": "Reviewed in a PowerPoint-exported temporary review slide on white, dark forest and a scene background, and in final slide placements; no visible backing box, checkerboard, fringe or missing intentional ivory fill."
+    },
+    {
+      "file": "assets/icons/study-boundary.png",
+      "prompt": "Create ONE standalone flat 2D pictogram for a professional environmental research deck. Use attached heat pictogram as STYLE reference only: same rounded medium forest-green line weight, crisp simple solid fills, restrained ivory and eucalyptus/terracotta/slate palette. Single concept only, whole symbol centered inside square canvas with generous padding. Genuine alpha-transparent background, no backing rectangle, tile, checkerboard, shadows, glow, bevel, 3D, text, numbers or labels. Preserve intentional ivory fills inside symbol; outside transparent. Concept: bounded study scope. A simple forest-green circular magnifying lens enclosing one tiny terracotta house with a eucalyptus tree silhouette, showing one small locality. Lens handle slate blue, intentional ivory lens interior. One unified pictogram. No maps, lettering or numbers.",
+      "source": "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-dc6fe29d-cf8d-4bc8-816f-20e32dbedc5a.png",
+      "references": [
+        "~/.codex/generated_images/01a1a3ef-8285-7100-9c15-1f8caa14bb59/exec-c4bfc601-498c-4e37-9960-47497674896b.png"
+      ],
+      "sha256": "1f13331ef1a6985369a13fcefc63f334fb61ce3fd7480e15ec7714bda311f395",
+      "alpha_check": {
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.642935,
+        "visible_fraction": 0.357065,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.979649,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "visual_alpha_review": "Reviewed in a PowerPoint-exported temporary review slide on white, dark forest and a scene background, and in final slide placements; no visible backing box, checkerboard, fringe or missing intentional ivory fill."
+    }
+  ],
+  "characters": "No people used; character continuity is not applicable.",
+  "structural_layout_check": {
+    "path": "Cooling_The_Street_Proposal.pptx",
+    "status": "NO_GEOMETRY_FINDINGS_VISUAL_REVIEW_REQUIRED",
+    "slides": 5,
+    "issues": 0,
+    "checks": 0,
+    "text_estimate": "font metrics",
+    "fonts_substituted": [],
+    "findings": [],
+    "visual_review": "Text sizes are estimated from fonts, not rendered. Confirm every finding on the exported slide image; a clean result does not replace visual review."
+  },
+  "visual_review": {
+    "renderer": "Microsoft PowerPoint 16 COM",
+    "preview_size": [
+      1920,
+      1080
+    ],
+    "per_slide_review": true,
+    "corrections": [
+      "Removed default line shadow on cover.",
+      "Made air temperature explicit in method label.",
+      "Lifted timeline text above tree line.",
+      "Moved closing title below the wall edge and protected the interpretation note with a local light panel."
+    ],
+    "icon_coverage": {
+      "1": "No parallel point group; one research question.",
+      "2": [
+        "surface heat",
+        "footpath-scale evidence"
+      ],
+      "3": [
+        "site pairing",
+        "measurement",
+        "paired comparison"
+      ],
+      "4": [
+        "site selection",
+        "measurement",
+        "analysis"
+      ],
+      "5": [
+        "reusable protocol",
+        "study limits"
+      ]
+    },
+    "source_accuracy": "All sampling numbers and timeline dates come from brief.md and are labelled as planned. No results are shown. Measurement is distinguished from direct comfort assessment.",
+    "not_done": [
+      "Fieldwork or data analysis",
+      "External literature review or independent validation of the brief",
+      "Timed rehearsal",
+      "Cross-application or non-Microsoft-365 rendering tests"
+    ]
+  }
+}

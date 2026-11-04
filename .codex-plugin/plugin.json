@@ -1,0 +1,36 @@
+{
+  "name": "scenic-slides",
+  "version": "1.0.0",
+  "description": "Create or refine polished, editable PowerPoint decks with full-slide contextual backgrounds, transparent 2D icons and clear visual storytelling.",
+  "author": {
+    "name": "chenne0819",
+    "url": "https://github.com/chenne0819"
+  },
+  "homepage": "https://github.com/chenne0819/scenic-slides-skill",
+  "repository": "https://github.com/chenne0819/scenic-slides-skill",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "presentations",
+    "powerpoint",
+    "pptx",
+    "slides",
+    "illustration",
+    "icons"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Scenic Slides",
+    "shortDescription": "Editable slides with scenes and transparent 2D icons",
+    "longDescription": "Turns an outline, rough notes or a short request into an editable PowerPoint deck. Every slide gets a generated full-slide scene, each parallel point gets a transparent 2D icon, and all text, arrows, diagrams, timelines and code stay native PowerPoint objects. Each slide is rendered and checked for layout, contrast and icon transparency before delivery.",
+    "developerName": "chenne0819",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://github.com/chenne0819/scenic-slides-skill",
+    "defaultPrompt": [
+      "Make a 5-slide deck from this outline with scene backgrounds and icons.",
+      "Turn these notes into a short, friendly training deck.",
+      "Polish this presentation, keeping slides 1 and 2 as they are."
+    ]
+  }
+}

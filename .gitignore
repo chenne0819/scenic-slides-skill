@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Working folders and large deliverables (the example decks ship as a Release asset)
+_work_*/
+*.pptx
+*.zip

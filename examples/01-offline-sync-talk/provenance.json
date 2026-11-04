@@ -1,0 +1,503 @@
+{
+  "deck": "Driftnote_Offline_Sync_Talk.pptx",
+  "run": "run-1",
+  "date": "2026-11-04",
+  "product": "Driftnote is fictional; status supplied by brief.md",
+  "art_direction": "Warm railway journey and device-workbench editorial scenes; no recurring people",
+  "assets": [
+    {
+      "file": "assets/backgrounds/01-railway-journey.png",
+      "prompt": "Use case: illustration-story. Create a full-bleed 16:9 landscape background, 1536x864 or 1792x1024 cropped-ready composition, for a professional developer talk. One continuous railway landscape at early morning, an elegant small unbranded commuter train travelling along the LOWER RIGHT third, railway embankment and layered gentle hills stretch across the whole bottom edge, pale warm ivory sky fills the upper 70% and extends to all edges. A few thin overhead railway wires only in the far right, never across the left sky. Refined flat 2D editorial illustration, confident clean contours, layered solid shapes, restrained soft atmospheric washes, tasteful human-made imperfection; no photorealism, no 3D, no glossy CGI. Palette warm ivory #F5F0E5, muted sand, dark ink blue #233747, dusty teal #286F70, restrained rust orange #B65735. Train is about 28% canvas width at right, lower than 65% height. LEFT 68% and TOP 55% extremely quiet light sky for native typography. Train windows blank. NO people, text, letters, numbers, logos, charts, arrows, icons, diagrams, interface panels, frames, watermark. This is environmental artwork only, not a finished slide. Sophisticated editorial travel illustration with clear focal point, open breathing room.",
+      "alpha_check": "Not applicable: opaque scene",
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-482f9965-3b20-4c65-883b-78a42b188280.png",
+      "reference_images_used": [],
+      "generation_tool": "built-in image_gen",
+      "sha256": "a52c79f7b1f7484dbdf69c22e4e362d58f6039be59636c686463b678f11f3ff6",
+      "transparent_background_requested": false,
+      "visual_review": "Full-bleed scene, no embedded typography or diagram; reviewed in PowerPoint exports."
+    },
+    {
+      "file": "assets/backgrounds/02-train-interior.png",
+      "prompt": "Use attached approved railway illustration only as STYLE reference: same refined flat 2D editorial line quality, muted warm ivory, sand, ink blue, dusty teal and restrained rust palette, atmospheric flat washes. New full-bleed 16:9 scene for an editable developer talk. Environment spans every canvas edge; broad naturally pale quiet space for native text. No text, letters, numbers, logos, charts, arrows, icons, diagrams, interface panels, watermark or people. No photorealism or 3D. Scene: inside a commuter train. Window overlooking blurred layered teal hills and rust foliage, teal upholstered seat and a small fold-down table holding a blank-screen phone occupy LEFTMOST 34%, chiefly below 32% canvas height. The RIGHT 62% is continuous warm ivory carriage wall, very pale, blank and uncluttered. Top 22% calm ivory wall for heading. Restrained geometric window-frame architecture connects the scene to all edges; no grab pole or seam across the right text area. Close quiet human-scale scene with no human.",
+      "alpha_check": "Not applicable: opaque scene",
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-0be57850-5966-454b-96f3-6973855cba11.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-482f9965-3b20-4c65-883b-78a42b188280.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "a92474b8e4f25bfa884010a40faa0d12430f13139441f38316d5af8325de1174",
+      "transparent_background_requested": false,
+      "visual_review": "Full-bleed scene, no embedded typography or diagram; reviewed in PowerPoint exports."
+    },
+    {
+      "file": "assets/backgrounds/03-device-workbench.png",
+      "prompt": "Use attached approved railway illustration only as STYLE reference: same refined flat 2D editorial line quality, muted warm ivory, sand, ink blue, dusty teal and restrained rust palette, atmospheric flat washes. New full-bleed 16:9 scene for an editable developer talk. Environment spans every canvas edge; broad naturally pale quiet space for native text. No text, letters, numbers, logos, charts, arrows, icons, diagrams, interface panels, watermark or people. No photorealism or 3D. Scene: a wide developer's electronics workbench seen straight on, clean physical cables, two small blank-screen devices and simple testing equipment distributed along the BOTTOM 20% of the canvas. A broad light ivory plaster wall spans the full width above, with soft daylight, no boards and no hanging equipment. ALL upper 75% and central 90% calm and empty for a native horizontal four-step flow. Muted teal and rust tools, ink outlines, crafted editorial finish. No keyboard glyphs or screen content. The desk surface extends to both edges.",
+      "alpha_check": "Not applicable: opaque scene",
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-f8827997-d760-42b1-8a1f-133c1e0e29ae.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-482f9965-3b20-4c65-883b-78a42b188280.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "27ba3f89b3f64e44f3607bbf9fb3f45710cddd251707d20c5a6a3f427e41fd37",
+      "transparent_background_requested": false,
+      "visual_review": "Full-bleed scene, no embedded typography or diagram; reviewed in PowerPoint exports."
+    },
+    {
+      "file": "assets/backgrounds/04-merge-desk.png",
+      "prompt": "Use attached approved railway illustration only as STYLE reference: same refined flat 2D editorial line quality, muted warm ivory, sand, ink blue, dusty teal and restrained rust palette, atmospheric flat washes. New full-bleed 16:9 scene for an editable developer talk. Environment spans every canvas edge; broad naturally pale quiet space for native text. No text, letters, numbers, logos, charts, arrows, icons, diagrams, interface panels, watermark or people. No photorealism or 3D. Scene: top-down view of a pale ivory desk surface filling every edge. A partly cropped blank-screen laptop at the FAR TOP RIGHT corner outside the middle, a dark teal notebook and rust pencil at the BOTTOM RIGHT edge, a small coiled cable at FAR BOTTOM LEFT. All physical objects restricted to outermost 12% edges, chiefly right edge. Center 85% and upper left remain extremely quiet empty ivory desk for editable merge diagram and code. No paper texture or desk grain. Minimal objects, sophisticated flat 2D illustration, no generated panels.",
+      "alpha_check": "Not applicable: opaque scene",
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-99c30cf8-c25b-46d7-affd-438f001773aa.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-482f9965-3b20-4c65-883b-78a42b188280.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "e30c04463c6c19dc5f53b0730ecbee2f8fe2abbdb16beeae58b5a9e4a6a0bc2e",
+      "transparent_background_requested": false,
+      "visual_review": "Full-bleed scene, no embedded typography or diagram; reviewed in PowerPoint exports."
+    },
+    {
+      "file": "assets/backgrounds/05-arrival-station.png",
+      "prompt": "Use attached approved railway illustration only as STYLE reference: same refined flat 2D editorial line quality, muted warm ivory, sand, ink blue, dusty teal and restrained rust palette, atmospheric flat washes. New full-bleed 16:9 scene for an editable developer talk. Environment spans every canvas edge; broad naturally pale quiet space for native text. No text, letters, numbers, logos, charts, arrows, icons, diagrams, interface panels, watermark or people. No photorealism or 3D. Scene: calm destination railway station concourse, warm ivory plaster architecture extending across the scene, a large arch and view of pale teal hills at FAR RIGHT 25%, wooden bench and rust luggage at BOTTOM RIGHT. Perspective tiled floor restricted to bottom 12%, soft shadows. LEFT 70% and TOP 24% is broad naturally quiet ivory wall for editable release status rows and a closing invitation. No signage, clocks, signs, departure boards or symbols. Same flat editorial style and palette as reference, recognisable beautiful place rather than isolated objects.",
+      "alpha_check": "Not applicable: opaque scene",
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-0c3e9e40-0f59-48e4-b00b-7ed96a587fb4.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-482f9965-3b20-4c65-883b-78a42b188280.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "2d13d6b12700522b9accb4035b0aa1dcc643fc932e840b812e44fe8a64e91029",
+      "transparent_background_requested": false,
+      "visual_review": "Full-bleed scene, no embedded typography or diagram; reviewed in PowerPoint exports."
+    },
+    {
+      "file": "assets/icons/discarded-edit.png",
+      "prompt": "Use the attached phone-edit pictogram as STYLE reference only. Match its dark ink-blue #233747 rounded outline weight, simple flat 2D shapes, pale ivory intentional inner fills, muted teal #286F70 and rust #B65735 accents. Create ONE standalone icon, not an icon sheet. Entire symbol centered, similar 70% canvas coverage, clean 15% padding. Real alpha-transparent background, no backing tile, white rectangle, checkerboard, shadow, glow, bevel, 3D, lettering, numbers, embedded labels or logos. Preserve ivory interior fills. Subject: a single ivory sheet being torn into two pieces, a clear gap in the middle, representing a silently discarded edit. No text lines.",
+      "alpha_check": {
+        "path": "assets/icons/discarded-edit.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.65982,
+        "visible_fraction": 0.34018,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.989026,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-b64bad5b-52cb-4f51-9127-9645291a695e.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-aa70ec13-aac7-4f6c-8b79-c5593c54e16a.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "501ee1d83514100bf928896b226f18fe0d930c15c9e386ff2febe56ad23c2b55",
+      "transparent_background_requested": true,
+      "visual_alpha_review": {
+        "method": "Temporary native PowerPoint review slide exported by PowerPoint at 1920x1080, plus final slides",
+        "backgrounds": [
+          "white",
+          "dark ink blue",
+          "actual generated train scene"
+        ],
+        "result": "No visible backing rectangles, checkerboards, fringes or missing interior fills at rendered size."
+      }
+    },
+    {
+      "file": "assets/icons/laptop-edit.png",
+      "prompt": "Use the attached phone-edit pictogram as STYLE reference only. Match its dark ink-blue #233747 rounded outline weight, simple flat 2D shapes, pale ivory intentional inner fills, muted teal #286F70 and rust #B65735 accents. Create ONE standalone icon, not an icon sheet. Entire symbol centered, similar 70% canvas coverage, clean 15% padding. Real alpha-transparent background, no backing tile, white rectangle, checkerboard, shadow, glow, bevel, 3D, lettering, numbers, embedded labels or logos. Preserve ivory interior fills. Subject: a front-facing open laptop with blank ivory screen and a small rust pencil at lower right, representing a laptop edit.",
+      "alpha_check": {
+        "path": "assets/icons/laptop-edit.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.573864,
+        "visible_fraction": 0.426136,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.998005,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-f4d8edcf-4cc4-4525-b141-52008e5267b0.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-aa70ec13-aac7-4f6c-8b79-c5593c54e16a.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "29f4889cbbee53ef5b49d992c82e293ae4ae9d84adf383dc7cbb843b317acb96",
+      "transparent_background_requested": true,
+      "visual_alpha_review": {
+        "method": "Temporary native PowerPoint review slide exported by PowerPoint at 1920x1080, plus final slides",
+        "backgrounds": [
+          "white",
+          "dark ink blue",
+          "actual generated train scene"
+        ],
+        "result": "No visible backing rectangles, checkerboards, fringes or missing interior fills at rendered size."
+      }
+    },
+    {
+      "file": "assets/icons/local-storage.png",
+      "prompt": "Use the attached phone-edit pictogram as STYLE reference only. Match its dark ink-blue #233747 rounded outline weight, simple flat 2D shapes, pale ivory intentional inner fills, muted teal #286F70 and rust #B65735 accents. Create ONE standalone icon, not an icon sheet. Entire symbol centered, similar 70% canvas coverage, clean 15% padding. Real alpha-transparent background, no backing tile, white rectangle, checkerboard, shadow, glow, bevel, 3D, lettering, numbers, embedded labels or logos. Preserve ivory interior fills. Subject: a simple teal solid-state drive with a small rust downward notch, representing durable local storage. No symbols or lettering.",
+      "alpha_check": {
+        "path": "assets/icons/local-storage.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.551868,
+        "visible_fraction": 0.448132,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.993416,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-e81da02b-f018-4409-8578-23cf4fa9a5a2.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-aa70ec13-aac7-4f6c-8b79-c5593c54e16a.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "4f5b0c4c6ce282fd7e6780e92aef755b965e508ea2cb0c77f3a87707e1710d29",
+      "transparent_background_requested": true,
+      "visual_alpha_review": {
+        "method": "Temporary native PowerPoint review slide exported by PowerPoint at 1920x1080, plus final slides",
+        "backgrounds": [
+          "white",
+          "dark ink blue",
+          "actual generated train scene"
+        ],
+        "result": "No visible backing rectangles, checkerboards, fringes or missing interior fills at rendered size."
+      }
+    },
+    {
+      "file": "assets/icons/merge-operations.png",
+      "prompt": "Use the attached phone-edit pictogram as STYLE reference only. Match its dark ink-blue #233747 rounded outline weight, simple flat 2D shapes, pale ivory intentional inner fills, muted teal #286F70 and rust #B65735 accents. Create ONE standalone icon, not an icon sheet. Entire symbol centered, similar 70% canvas coverage, clean 15% padding. Real alpha-transparent background, no backing tile, white rectangle, checkerboard, shadow, glow, bevel, 3D, lettering, numbers, embedded labels or logos. Preserve ivory interior fills. Subject: two teal and rust curved paths joining into one central upward stem with a single arrowhead, representing merging operations. This icon may have symbolic arrows; no text.",
+      "alpha_check": {
+        "path": "assets/icons/merge-operations.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.769178,
+        "visible_fraction": 0.230822,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.996409,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-89816f7c-543b-4550-be5e-5eff89712d27.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-aa70ec13-aac7-4f6c-8b79-c5593c54e16a.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "a809fedf41def7b224903ba7ab2977375f4c14ee965797ea01279805c1e4158e",
+      "transparent_background_requested": true,
+      "visual_alpha_review": {
+        "method": "Temporary native PowerPoint review slide exported by PowerPoint at 1920x1080, plus final slides",
+        "backgrounds": [
+          "white",
+          "dark ink blue",
+          "actual generated train scene"
+        ],
+        "result": "No visible backing rectangles, checkerboards, fringes or missing interior fills at rendered size."
+      }
+    },
+    {
+      "file": "assets/icons/operation-log.png",
+      "prompt": "Use the attached phone-edit pictogram as STYLE reference only. Match its dark ink-blue #233747 rounded outline weight, simple flat 2D shapes, pale ivory intentional inner fills, muted teal #286F70 and rust #B65735 accents. Create ONE standalone icon, not an icon sheet. Entire symbol centered, similar 70% canvas coverage, clean 15% padding. Real alpha-transparent background, no backing tile, white rectangle, checkerboard, shadow, glow, bevel, 3D, lettering, numbers, embedded labels or logos. Preserve ivory interior fills. Subject: a tidy vertical stack of three small ivory record sheets with teal top edges, representing an append-only operation log. No text.",
+      "alpha_check": {
+        "path": "assets/icons/operation-log.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.561013,
+        "visible_fraction": 0.438987,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.994812,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-62039169-86e8-44df-8787-6b494b3081eb.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-aa70ec13-aac7-4f6c-8b79-c5593c54e16a.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "1b996d062fa306b171d712c5e120719824da84d9938085e34be6634c6e11ef3d",
+      "transparent_background_requested": true,
+      "visual_alpha_review": {
+        "method": "Temporary native PowerPoint review slide exported by PowerPoint at 1920x1080, plus final slides",
+        "backgrounds": [
+          "white",
+          "dark ink blue",
+          "actual generated train scene"
+        ],
+        "result": "No visible backing rectangles, checkerboards, fringes or missing interior fills at rendered size."
+      }
+    },
+    {
+      "file": "assets/icons/phone-edit.png",
+      "prompt": "Create ONE flat 2D pictogram of a smartphone representing a phone edit, front-facing simple tall rounded phone with one small rust-orange pencil diagonally resting across its lower corner. Concept is phone editing. Crisp consistent medium-weight dark ink-blue #233747 rounded outlines, pale ivory screen fill, muted teal #286F70 body accent and rust #B65735 pencil. Refined minimal editorial icon, no more than four colours. Entire symbol centered with 15% clean padding on all sides. Genuinely alpha-transparent background. No white rectangle, no tile, no checkerboard, no shadow, glow, gradient, bevel or 3D, no text, letters, numbers, logo or embedded label. Intentional ivory fill inside screen remains opaque. Single icon only, square canvas.",
+      "alpha_check": {
+        "path": "assets/icons/phone-edit.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.649771,
+        "visible_fraction": 0.350229,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 1.0,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-aa70ec13-aac7-4f6c-8b79-c5593c54e16a.png",
+      "reference_images_used": [],
+      "generation_tool": "built-in image_gen",
+      "sha256": "ed1f00cc3826418c93c480d398be398f801fe3f7e61e45c037f7ed3e87ed1dd3",
+      "transparent_background_requested": true,
+      "visual_alpha_review": {
+        "method": "Temporary native PowerPoint review slide exported by PowerPoint at 1920x1080, plus final slides",
+        "backgrounds": [
+          "white",
+          "dark ink blue",
+          "actual generated train scene"
+        ],
+        "result": "No visible backing rectangles, checkerboards, fringes or missing interior fills at rendered size."
+      }
+    },
+    {
+      "file": "assets/icons/planned.png",
+      "prompt": "Use the attached phone-edit pictogram as STYLE reference only. Match its dark ink-blue #233747 rounded outline weight, simple flat 2D shapes, pale ivory intentional inner fills, muted teal #286F70 and rust #B65735 accents. Create ONE standalone icon, not an icon sheet. Entire symbol centered, similar 70% canvas coverage, clean 15% padding. Real alpha-transparent background, no backing tile, white rectangle, checkerboard, shadow, glow, bevel, 3D, lettering, numbers, embedded labels or logos. Preserve ivory interior fills. Subject: a small ivory calendar with rust binding and one teal empty square, representing planned work. No numbers or letters.",
+      "alpha_check": {
+        "path": "assets/icons/planned.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.524288,
+        "visible_fraction": 0.475712,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.999401,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-bdccfee7-2c92-4c29-9f6c-d284c70a2f9c.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-aa70ec13-aac7-4f6c-8b79-c5593c54e16a.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "b7556f53ec234ddce2b2066a52c67bec1ee51a658dba278a4a0884f740ef1507",
+      "transparent_background_requested": true,
+      "visual_alpha_review": {
+        "method": "Temporary native PowerPoint review slide exported by PowerPoint at 1920x1080, plus final slides",
+        "backgrounds": [
+          "white",
+          "dark ink blue",
+          "actual generated train scene"
+        ],
+        "result": "No visible backing rectangles, checkerboards, fringes or missing interior fills at rendered size."
+      }
+    },
+    {
+      "file": "assets/icons/send-log.png",
+      "prompt": "Use the attached phone-edit pictogram as STYLE reference only. Match its dark ink-blue #233747 rounded outline weight, simple flat 2D shapes, pale ivory intentional inner fills, muted teal #286F70 and rust #B65735 accents. Create ONE standalone icon, not an icon sheet. Entire symbol centered, similar 70% canvas coverage, clean 15% padding. Real alpha-transparent background, no backing tile, white rectangle, checkerboard, shadow, glow, bevel, 3D, lettering, numbers, embedded labels or logos. Preserve ivory interior fills. Subject: a simple rust paper airplane pointing right, representing sending the operation log on reconnection.",
+      "alpha_check": {
+        "path": "assets/icons/send-log.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.814775,
+        "visible_fraction": 0.185225,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.999401,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-d5d502e5-1f5a-41f4-8fef-61afe9de9cb0.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-aa70ec13-aac7-4f6c-8b79-c5593c54e16a.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "3d33111609ea90bd09952dd331a76a4cf21de9e1257e157e138d63ba51dfaee0",
+      "transparent_background_requested": true,
+      "visual_alpha_review": {
+        "method": "Temporary native PowerPoint review slide exported by PowerPoint at 1920x1080, plus final slides",
+        "backgrounds": [
+          "white",
+          "dark ink blue",
+          "actual generated train scene"
+        ],
+        "result": "No visible backing rectangles, checkerboards, fringes or missing interior fills at rendered size."
+      }
+    },
+    {
+      "file": "assets/icons/shipped.png",
+      "prompt": "Use the attached phone-edit pictogram as STYLE reference only. Match its dark ink-blue #233747 rounded outline weight, simple flat 2D shapes, pale ivory intentional inner fills, muted teal #286F70 and rust #B65735 accents. Create ONE standalone icon, not an icon sheet. Entire symbol centered, similar 70% canvas coverage, clean 15% padding. Real alpha-transparent background, no backing tile, white rectangle, checkerboard, shadow, glow, bevel, 3D, lettering, numbers, embedded labels or logos. Preserve ivory interior fills. Subject: one teal checkmark inside a simple ink outlined circle, representing shipped and available.",
+      "alpha_check": {
+        "path": "assets/icons/shipped.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.597053,
+        "visible_fraction": 0.402947,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 0.969473,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-60135514-1c4d-4de5-b799-0640098b9157.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-aa70ec13-aac7-4f6c-8b79-c5593c54e16a.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "2c954178200114cec439c25965f118e14c3863dafdfdfe19df2f3699bb49c800",
+      "transparent_background_requested": true,
+      "visual_alpha_review": {
+        "method": "Temporary native PowerPoint review slide exported by PowerPoint at 1920x1080, plus final slides",
+        "backgrounds": [
+          "white",
+          "dark ink blue",
+          "actual generated train scene"
+        ],
+        "result": "No visible backing rectangles, checkerboards, fringes or missing interior fills at rendered size."
+      }
+    },
+    {
+      "file": "assets/icons/testing.png",
+      "prompt": "Use the attached phone-edit pictogram as STYLE reference only. Match its dark ink-blue #233747 rounded outline weight, simple flat 2D shapes, pale ivory intentional inner fills, muted teal #286F70 and rust #B65735 accents. Create ONE standalone icon, not an icon sheet. Entire symbol centered, similar 70% canvas coverage, clean 15% padding. Real alpha-transparent background, no backing tile, white rectangle, checkerboard, shadow, glow, bevel, 3D, lettering, numbers, embedded labels or logos. Preserve ivory interior fills. Subject: a simple laboratory flask with teal liquid and one rust bubble, representing in testing.",
+      "alpha_check": {
+        "path": "assets/icons/testing.png",
+        "status": "ALPHA_PRESENT_VISUAL_REVIEW_REQUIRED",
+        "size": [
+          1254,
+          1254
+        ],
+        "transparent_fraction": 0.683577,
+        "visible_fraction": 0.316423,
+        "alpha_range": [
+          0,
+          255
+        ],
+        "transparent_border_fraction": 1.0,
+        "visual_review": "Inspect on light, dark and actual slide backgrounds for rectangles, halos and missing detail."
+      },
+      "source_path": "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-a93d16c2-f3f7-42e4-b17e-0e81155bb8ca.png",
+      "reference_images_used": [
+        "~/.codex/generated_images/01a1a3df-de15-7380-8b35-10cd52d81a85/exec-aa70ec13-aac7-4f6c-8b79-c5593c54e16a.png"
+      ],
+      "generation_tool": "built-in image_gen",
+      "sha256": "c6f5e7425e1c5ff1c2fc4b065c6e53e5200722ec2d15630cee83eddc44e52c0b",
+      "transparent_background_requested": true,
+      "visual_alpha_review": {
+        "method": "Temporary native PowerPoint review slide exported by PowerPoint at 1920x1080, plus final slides",
+        "backgrounds": [
+          "white",
+          "dark ink blue",
+          "actual generated train scene"
+        ],
+        "result": "No visible backing rectangles, checkerboards, fringes or missing interior fills at rendered size."
+      }
+    }
+  ],
+  "verification": {
+    "renderer": "Microsoft PowerPoint 16, COM, 1920x1080 PNG",
+    "com_mutex": "Local\\SkillDemoDecksPowerPoint",
+    "application_quit_called": false,
+    "slide_count": 5,
+    "aspect_ratio": "16:9",
+    "minimum_font_pt": 12.0,
+    "maximum_font_pt": 40.0,
+    "fonts": [
+      "Aptos Display",
+      "Aptos",
+      "Consolas"
+    ],
+    "layout_check": {
+      "path": "01_Offline_Sync_Tech_Talk\\Driftnote_Offline_Sync_Talk.pptx",
+      "status": "NO_GEOMETRY_FINDINGS_VISUAL_REVIEW_REQUIRED",
+      "slides": 5,
+      "issues": 0,
+      "checks": 0,
+      "text_estimate": "font metrics",
+      "fonts_substituted": [],
+      "findings": [],
+      "visual_review": "Text sizes are estimated from fonts, not rendered. Confirm every finding on the exported slide image; a clean result does not replace visual review."
+    },
+    "structure": [
+      {
+        "slide": 1,
+        "native_shapes": 6,
+        "pictures": 1,
+        "speaker_note_sentences": 3
+      },
+      {
+        "slide": 2,
+        "native_shapes": 8,
+        "pictures": 4,
+        "speaker_note_sentences": 3
+      },
+      {
+        "slide": 3,
+        "native_shapes": 19,
+        "pictures": 5,
+        "speaker_note_sentences": 3
+      },
+      {
+        "slide": 4,
+        "native_shapes": 19,
+        "pictures": 4,
+        "speaker_note_sentences": 4
+      },
+      {
+        "slide": 5,
+        "native_shapes": 12,
+        "pictures": 4,
+        "speaker_note_sentences": 3
+      }
+    ],
+    "code_check": "Seven-line snippet executed for both arrival orders of illustrative independent append operations; both yield the displayed merged note. This is not a production sync test.",
+    "icon_coverage": {
+      "slide_1": "Title scene; no parallel list",
+      "slide_2": "Phone edit, laptop edit, discarded edit",
+      "slide_3": "Local storage, operation log, sending log, merging operations",
+      "slide_4": "Phone and laptop input icons plus merge output icon; code itself is exempt",
+      "slide_5": "Shipped, testing, planned"
+    },
+    "visual_review": "Every slide exported and reviewed in order; flow reading panel and closing footer corrected, re-rendered and checked. Final whole-deck narrative/style review completed.",
+    "not_done": [
+      "Production sync correctness or performance testing",
+      "Real beta availability verification (fictional product)",
+      "Timed presentation rehearsal",
+      "Non-PowerPoint or non-Microsoft-365 compatibility testing"
+    ],
+    "known_issues": []
+  }
+}
