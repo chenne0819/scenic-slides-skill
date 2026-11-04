@@ -7,7 +7,7 @@ __pycache__/
 Thumbs.db
 desktop.ini
 
-# Working folders and large deliverables (the example decks ship as a Release asset)
+# Working folders and large deliverables (the examples are shown as images only)
 _work_*/
 *.pptx
 *.zip

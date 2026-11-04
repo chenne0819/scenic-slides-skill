@@ -2,7 +2,7 @@
 
 A five-slide, 16:9 new-hire security onboarding deck for **Harbourline Logistics, a fictional company**. The [raw brief](brief.md) becomes a friendly 15-minute teaching sequence: recognise, inspect, report, handle MFA prompts, then practise. Four English speaker-note sentences per slide provide facilitation cues and the exercise answers.
 
-[Download the PowerPoint](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip) · [PNG previews](previews/) · [Asset provenance and checks](provenance.json)
+[Original brief](brief.md) · [Slide previews](previews/) · [Asset provenance and checks](provenance.json)
 
 1. **Everyday disguise:** an ordinary-looking email or chat is a reason to pause before acting.
 2. **Five warning signs:** urgency, look-alike senders, mismatched links, requests for secrets and unexpected attachments.
@@ -24,4 +24,4 @@ The visual direction is a warm harbour dispatch office, with contextual scenes o
 
 ---
 
-The `.pptx`, the full-resolution previews and the separate background and icon files are in [scenic-slides-examples.zip](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip) on the Releases page. `provenance.json` here has every generation prompt; its local paths were shortened before publishing.
+`provenance.json` has the full generation prompt for every scene and icon; local file paths in it were shortened before publishing.

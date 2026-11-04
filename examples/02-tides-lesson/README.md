@@ -1,6 +1,6 @@
 # Why does the sea go in and out?
 
-A five-slide, 16:9 science lesson for Year 6 learners aged 10–12, designed for about 15 minutes with discussion. [Open the PowerPoint](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip) · [Original brief](brief.md)
+A five-slide, 16:9 science lesson for Year 6 learners aged 10–12, designed for about 15 minutes with discussion. [Original brief](brief.md) · [Slide previews](previews/) · [Asset prompts and provenance](provenance.json)
 
 The supplied slide order and teaching points are preserved. Short explanations, native teaching diagrams and icon-led comparisons replace dense bullets; every slide has a generated coastal scene and 3–4 sentences of speaker script.
 
@@ -30,4 +30,4 @@ Concepts were cross-checked against NOAA: [tide frequency](https://oceanservice.
 
 ---
 
-The `.pptx`, the full-resolution previews and the separate background and icon files are in [scenic-slides-examples.zip](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip) on the Releases page. `provenance.json` here has every generation prompt; its local paths were shortened before publishing.
+`provenance.json` has the full generation prompt for every scene and icon; local file paths in it were shortened before publishing.

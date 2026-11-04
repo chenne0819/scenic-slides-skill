@@ -15,12 +15,10 @@ Five editable PowerPoint decks made by `scenic-slides`. Each one started from a 
 ```
 brief.md          the input, unchanged
 overview.webp     the cover and the other four slides on one image
-previews/         every slide, exported from PowerPoint (WebP here; full-size PNGs are in the zip)
+previews/         every slide, exported from PowerPoint at 1920×1080 (WebP)
 provenance.json   full generation prompt, reference images and alpha check for every scene and icon
 README.md         slide summary, palette, fonts, checks done and known limits
 ```
-
-**Download:** the `.pptx` files, full-resolution previews and the separate background and icon images are in [scenic-slides-examples.zip](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip) on the Releases page.
 
 ## How they were made
 

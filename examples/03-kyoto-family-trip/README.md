@@ -2,7 +2,7 @@
 
 A five-slide family trip plan for a dinner-table conversation, created with `scenic-slides`. The short [brief](brief.md) became a flexible four-day itinerary, three packing kits and a memorable travel-day pact. The original brief is unchanged.
 
-[Open the PowerPoint](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip) · [Slide previews](previews/) · [Asset prompts and provenance](provenance.json)
+[Original brief](brief.md) · [Slide previews](previews/) · [Asset prompts and provenance](provenance.json)
 
 1. **Kyoto, at our own pace** — four autumn days with room for everyone.
 2. **Ease in. Then chase the leaves.** — arrival snacks at Nishiki Market, then Tenryu-ji and Arashiyama.
@@ -32,4 +32,4 @@ Place and etiquette references checked on 4 November 2026: [Tenryu-ji garden](ht
 
 ---
 
-The `.pptx`, the full-resolution previews and the separate background and icon files are in [scenic-slides-examples.zip](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip) on the Releases page. `provenance.json` here has every generation prompt; its local paths were shortened before publishing.
+`provenance.json` has the full generation prompt for every scene and icon; local file paths in it were shortened before publishing.

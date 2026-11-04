@@ -46,7 +46,7 @@ Five decks, each made from a different kind of input. Each example folder has th
 **[Street trees research proposal](examples/05-street-trees-proposal/)**: from a single prose abstract.
 ![Street trees proposal](examples/05-street-trees-proposal/overview.webp)
 
-How they were made, how they were checked and their known flaws: [examples/README.md](examples/README.md). The `.pptx` files and the separate scene and icon images are in [the examples zip](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip) on the Releases page.
+How they were made, how they were checked and their known flaws: [examples/README.md](examples/README.md).
 
 ## Install
 

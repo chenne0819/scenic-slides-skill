@@ -2,7 +2,7 @@
 
 A five-slide, 16:9 English technical talk for web and mobile developers, designed for an approximately ten-minute meetup slot. Driftnote is fictional. The supplied [brief](brief.md) is preserved, including its slide order and shipped / testing / planned distinctions.
 
-[Download the editable PowerPoint](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip)
+[Original brief](brief.md) · [Slide previews](previews/) · [Asset prompts and provenance](provenance.json)
 
 The outline becomes a railway journey: an opening landscape, a disconnected train ride, a device workbench, a concrete merge example and an arrival-station close. Scene artwork and individual icons are generated; typography, panels, connected diagrams and Python code are native editable PowerPoint objects. Each slide has a three- or four-sentence speaker script.
 
@@ -27,4 +27,4 @@ Previews: [1](previews/01.webp) · [2](previews/02.webp) · [3](previews/03.webp
 
 ---
 
-The `.pptx`, the full-resolution previews and the separate background and icon files are in [scenic-slides-examples.zip](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip) on the Releases page. `provenance.json` here has every generation prompt; its local paths were shortened before publishing.
+`provenance.json` has the full generation prompt for every scene and icon; local file paths in it were shortened before publishing.

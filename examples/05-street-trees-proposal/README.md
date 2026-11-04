@@ -1,6 +1,6 @@
 # Cooling the street
 
-[Open the PowerPoint deck](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip) · [Original brief](brief.md)
+[Original brief](brief.md) · [Slide previews](previews/) · [Asset prompts and provenance](provenance.json)
 
 A five-slide, 16:9 honours research proposal for a supervisor panel. The prose abstract becomes a question → need → method → plan → contribution narrative for an intended eight-minute presentation. Sampling and dates remain explicitly planned; no results or invented effect sizes are shown. Every slide includes a short English speaker script.
 
@@ -27,4 +27,4 @@ Chosen assets, full prompts, source paths, reference-image lineage and checks ar
 
 ---
 
-The `.pptx`, the full-resolution previews and the separate background and icon files are in [scenic-slides-examples.zip](https://github.com/chenne0819/scenic-slides-skill/releases/latest/download/scenic-slides-examples.zip) on the Releases page. `provenance.json` here has every generation prompt; its local paths were shortened before publishing.
+`provenance.json` has the full generation prompt for every scene and icon; local file paths in it were shortened before publishing.
