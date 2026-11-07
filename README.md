@@ -17,6 +17,12 @@
 
 Good-looking PowerPoint decks that stay editable. Instead of generating each slide as one flat image you can't change, Scenic Slides generates only the scene backgrounds and transparent icons. It then builds the titles, text, arrows, diagrams, timelines and code on top as native PowerPoint objects, so you can still edit every word.
 
+## Demo
+
+[▶ Watch the 70-second demo](docs/scenic-slides-demo.en.mp4)
+
+See the generated slides, transparent icons and editable text in PowerPoint.
+
 ## What it does
 
 - **Gives every slide a scene:** a full-bleed illustration that fits that slide's message, with the open space planned for the text. Later scenes use the first one as a reference, so the deck stays in one style.
