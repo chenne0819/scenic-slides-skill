@@ -19,7 +19,7 @@ Good-looking PowerPoint decks that stay editable. Instead of generating each sli
 
 ## Demo
 
-[Download the 70-second demo (MP4)](docs/scenic-slides-demo.en.mp4?raw=true)
+https://github.com/user-attachments/assets/1960fd34-2e82-4759-b344-487e38e72da7
 
 See the generated slides, transparent icons and editable text in PowerPoint.
 
